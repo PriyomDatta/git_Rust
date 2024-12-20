@@ -1,0 +1,11 @@
+[package]
+name = "Proj_002"
+version = "0.1.0"
+author = ["Priyom Datta <priyomdat@gmail.com>"]
+edition = "2021"
+
+[dependencies]
+libc = "0.2"
+
+[build-dependencies]
+cc = "1.0"
